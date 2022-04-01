@@ -70,3 +70,5 @@ in your terminal.
 Here you go. Your RetroPie works as an APP for Raspberry Pi 4 with Raspberry OS (Raspbian) installed.
 
 You can see my photo to see how cool it is ! :)
+
+ARDUINO GAMEPAD WORKS PERFECTLY WITH THIS ! CHECK MY TUTORIAL FOR MORE!
